@@ -13,7 +13,7 @@ New updates on fine-grained activation reduce for CryptoGCN-[LinGCN](https://git
 cd native/examples
 cmake .
 make
-./bin/sealexamples
+../bin/sealexamples
 8
 ```
 # Microsoft SEAL
